@@ -12,9 +12,9 @@ Libellux: Up and Running is a collection of personal notes and documentation reg
 
 ![ShiftLeft Scan](https://github.com/libellux/Libellux-Up-and-Running/workflows/ShiftLeft%20Scan/badge.svg) [![Netlify Status](https://api.netlify.com/api/v1/badges/c55fd474-8155-440c-971b-a9ccbaf2133c/deploy-status)](https://app.netlify.com/sites/nervous-jennings-d80639/deploys)
 
-::: tip DISCLAIMER
-It is understood that this documentation, and any configurations may contain errors and are provided for education purposes only. The documentation, and any configurations are provided "as is" without warranty of any kind, whether express, implied, statutory, or otherwise.
-:::
+### DISCLAIMER
+*It is understood that this documentation, and any configurations may contain errors and are provided for education purposes only. The documentation, and any configurations are provided "as is" without warranty of any kind, whether express, implied, statutory, or otherwise.*
+
 
 ## Credits
 
@@ -33,7 +33,7 @@ It is understood that this documentation, and any configurations may contain err
 * VMware ESXi 6.7.0
 * [HyperQube](https://hyperqube.io/)
 
-::: details Conventions
+### Conventions
 | Type | Convention | Description |
 |--------|----------|-------------|
 | Environment | server@ubuntu | Suffix determine operating system |
@@ -43,7 +43,6 @@ It is understood that this documentation, and any configurations may contain err
 | Client IP | 192.168.0.2 | Client IP address |
 | VPN server | 192.168.8.1 | WireGuard VPN server IP address |
 | VPN client | 192.168.8.2 | WireGuard VPN client IP address |
-:::
 
 ## Table of contents
 
@@ -123,7 +122,7 @@ ClamAV Antivirus Server
 Scheduled jobs for GVM 21.04 to keep community feed up-to-date  
 Comments with Gitalk
 
-::: details Prior releases
+### Prior releases
 **Libellux: Up and Running changelog (1.0.1) <fredrik@libellux.com>**
 
 **Release Maintainers**
